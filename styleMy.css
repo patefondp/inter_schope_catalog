@@ -1,0 +1,46 @@
+.col-md-4,
+.col-md-8 {
+  border-bottom: 1px solid black;
+  padding: 5px 20px 5px 10px;
+}
+
+.card {
+    border: none;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+#block {
+    border-bottom: 0.5px solid gray;
+    width: 680px;
+    height: 150px;
+    overflow: hidden;
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
+  #block:hover {
+    height: auto;
+    cursor: pointer;
+  }
+
+.div_conteiner-pagin{
+ margin: 25px;
+}
+
+.span_pagin{
+   
+    border: 1px solid hsl(0, 29%, 85%);
+    border-radius: 3px;
+    padding: 7px;
+}
+
+.navbar{
+    height: 70px;
+}
+
+
+
+
